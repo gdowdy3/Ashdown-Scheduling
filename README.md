@@ -35,3 +35,6 @@ To use the code with your own input data, you just need to provide your own "Int
 6. Click the blue **Upload** buttons next to each file.
 7. Overwrite any pre-existing files of the same.
 8. Run the code, as in step 4. of the previous section.
+
+## Questions?
+Contact Garrett Dowdy (gdowdy3@gmail.com).
